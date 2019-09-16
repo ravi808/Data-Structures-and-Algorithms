@@ -8,7 +8,7 @@ Data structures are the core of real world projects. Efficient data structures f
 
 By joining this course you will learn: 
 
-```markdown
+```
   1. Assess how the choice of data structures and algorithm design methods impacts the performance of programs.
   2. Choose the appropriate data structure and algorithm design method for a specified application.
   3. Write programs using object-oriented design principles.
@@ -16,10 +16,14 @@ By joining this course you will learn:
      and tournament trees, binary search trees, and graphs and writing programs for these solutions.
   5. Solve problems using algorithm design methods such as the greedy method, divide and conquer, dynamic programming,
      backtracking, and branch and bound and writing programs for these solutions.  
-
+```
+## Course Outcome
+```
+  1. Ability to analyze algorithms and algorithm correctness.
+  2. Ability to summarize searching and sorting techniques.
+  3. Ability to describe stack,queue and linked list operation.
+  4. Ability to have knowledge of tree and graphs concepts.
   
-  ```markdown
-
 - Bulleted
 - List
 
@@ -30,6 +34,7 @@ By joining this course you will learn:
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
