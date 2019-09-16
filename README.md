@@ -34,11 +34,6 @@ By joining this course you will learn:
 - Comfortable with basic programming concepts like loops, arrays, strings etc. 
 - Attitude of self-learner
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
