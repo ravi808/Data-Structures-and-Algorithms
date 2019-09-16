@@ -1,9 +1,10 @@
-## Data Structures and Algorithm
+## Data Structures and Algorithms
 
-You can use the [editor on GitHub](https://github.com/ravi808/Data-Structures-and-Algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithm.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithm.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
