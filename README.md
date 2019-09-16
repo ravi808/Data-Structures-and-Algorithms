@@ -4,10 +4,21 @@ Data structures are the core of real world projects. Efficient data structures f
 
 
 
-## Pre-Requisites
+## Course Objective
 
-Have to knowledge about basic programming concepts like loops, arrays, strings etc. 
+By joining this course you will learn: 
+
 ```markdown
+  1. Assess how the choice of data structures and algorithm design methods impacts the performance of programs.
+  2. Choose the appropriate data structure and algorithm design method for a specified application.
+  3. Write programs using object-oriented design principles.
+  4. Solve problems using data structures such as linear lists, stacks, queues, hash tables, binary trees, heaps
+     and tournament trees, binary search trees, and graphs and writing programs for these solutions.
+  5. Solve problems using algorithm design methods such as the greedy method, divide and conquer, dynamic programming,
+     backtracking, and branch and bound and writing programs for these solutions.  
+
+  
+  ```markdown
 
 - Bulleted
 - List
