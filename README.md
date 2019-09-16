@@ -4,7 +4,7 @@ Data structures are the core of real world projects. Efficient data structures f
 
 
 
-## Course Objective
+## Course Objectives
 
 By joining this course you will learn: 
 
@@ -17,13 +17,17 @@ By joining this course you will learn:
   5. Solve problems using algorithm design methods such as the greedy method, divide and conquer, dynamic programming,
      backtracking, and branch and bound and writing programs for these solutions.  
 ```
-## Course Outcome
+## Course Outcomes
+
 ```
   1. Ability to analyze algorithms and algorithm correctness.
   2. Ability to summarize searching and sorting techniques.
   3. Ability to describe stack,queue and linked list operation.
   4. Ability to have knowledge of tree and graphs concepts.
-  
+```
+**Date :** Demo classes starts from 23 September,2019
+**Fee :** Flexible (Scroll down for complete fee structure).
+
 - Bulleted
 - List
 
