@@ -1,18 +1,13 @@
-## Data Structures and Algorithms
+# Data Structures and Algorithms
 
 Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithm.
 
 
 
-### Pre-Requisites
+## Pre-Requisites
 
 Have to knowledge about basic programming concepts like loops, arrays, strings etc. 
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+```markdown
 
 - Bulleted
 - List
