@@ -25,7 +25,7 @@ By joining this course you will learn:
   3. Ability to describe stack,queue and linked list operation.
   4. Ability to have knowledge of tree and graphs concepts.
 ```
-**Date :** Demo classes starts from 23 September,2019
+**Date :** Demo classes starts from 23 September,2019.
 **Fee :** Flexible (Scroll down for complete fee structure).
 
 - Bulleted
