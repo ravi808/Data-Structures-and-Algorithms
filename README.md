@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithm.
+Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithms.
 
 
 
@@ -26,6 +26,7 @@ By joining this course you will learn:
   4. Ability to have knowledge of tree and graphs concepts.
 ```
 **Date :** Demo classes starts from 23 September,2019.
+
 **Fee :** Flexible (Scroll down for complete fee structure).
 
 - Bulleted
