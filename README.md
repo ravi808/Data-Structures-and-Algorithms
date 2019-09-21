@@ -31,6 +31,8 @@ By joining this course you will learn:
 
 **Course Duration :** 60 Days.
 
+**For registration click on <a href="https://goo.gl/forms/YeDk8IqOeDLKQOtB2" class="w3-bar-item w3-button">Register</a> Button.**
+
 ## Prerequisites
 
 - Comfortable with basic programming concepts like loops, arrays, strings etc. 
