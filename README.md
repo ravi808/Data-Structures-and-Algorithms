@@ -25,7 +25,7 @@ By joining this course you will learn:
   3. Ability to describe stack,queue and linked list operation.
   4. Ability to have knowledge of tree and graphs concepts.
 ```
-**Date :** Demo classes starts from 23 September,2019.
+**Date :** Demo classes starts from 28 September,2019.
 
 **Fee :** Flexible (Scroll down for complete fee structure).
 
@@ -35,3 +35,23 @@ By joining this course you will learn:
 
 - Comfortable with basic programming concepts like loops, arrays, strings etc. 
 - Attitude of self-learner
+
+## Course Structure
+
+- Pointers
+- Time and Space Complexity
+- Recursion
+- Dynamic Allocation
+- OOPS Concept
+- Linked List
+- Stacks & Queues
+- Trees
+- Binary Trees
+- Binary Search Tree
+- Hashmaps
+- Priority Queue
+- Dynamic Programming
+- Tries and Huffman Coding
+- Graph
+
+
