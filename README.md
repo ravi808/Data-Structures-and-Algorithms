@@ -1,7 +1,3 @@
-<a href="https://goo.gl/forms/YeDk8IqOeDLKQOtB2" class="w3-bar-item w3-button">Register Here</a>
-* [Register Here](https://goo.gl/forms/YeDk8IqOeDLKQOtB2)
-
-  
 # Data Structures and Algorithms
 
 Data structures are the core of real world projects. Efficient data structures form the basis for designing efficient algorithms and software. This this course covers in depth implementations and applications of various important and interesting data structures and algorithms.
@@ -57,5 +53,3 @@ By joining this course you will learn:
 - Dynamic Programming
 - Tries and Huffman Coding
 - Graph
-
-
