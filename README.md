@@ -58,10 +58,8 @@ By joining this course you will learn:
 
 ## Fee Structure
 
- Student Type | Certificate preference | Course Fee | + Basic Python Course | After Course Support | Total Payable Fee | Concession Granted
+ No of installments | Amount of first installment and submission date | Amount of second installment and submission date | Total Payble Fee | Concession |
 --- | --- | --- | --- | --- | --- | --- |
-GNDEC Students | Without Certificate | Rs 600 | + Rs 400 | 1 month | Rs 1000 | 80% | 
-"               | With Certificate |  Rs 1500 | + Rs 300 | 2 month | Rs 1800 | 64% |
-Other Students | Without Certificate|  Rs 3000 | + Rs 200 | 2 years | Rs 3200 | 36% |
-"               | With Certificate |  Rs 5000 | + Rs 0 | 4 years | Rs 5000 | 0% |  
+1 | Rs 6000 on 3 Oct, 2019 |           NIL           | Rs 6000 | Upto 15% |
+2 | Rs 4000 on 3 Oct, 2019 | Rs 2500 on 21 Oct, 2019 | Rs 6500 | Upto 15% |
 
