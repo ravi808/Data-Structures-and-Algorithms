@@ -67,6 +67,7 @@ By joining this course you will learn:
 
  No of installments | Amount of first installment and submission date | Amount of second installment and submission date | Total Payble Fee | Concession |
 --- | --- | --- | --- | --- | --- | --- |
-1 | Rs 6000 on 3 Oct, 2019 |           NIL           | Rs 6000 | Upto 15% |
-2 | Rs 4000 on 3 Oct, 2019 | Rs 2500 on 21 Oct, 2019 | Rs 6500 | Upto 15% |
+1 | Rs 6000 on 5 Oct, 2019 |           NIL           | Rs 6000 | Upto 15% |
+2 | Rs 4000 on 5 Oct, 2019 | Rs 2500 on 21 Oct, 2019 | Rs 6500 | Upto 15% |
 
+*Note:* Concession will be depend on the basis of the performance in the Coding Test. This Coding Test will be based on basics of progamming language. Coding Test will be conducted on 3 Oct, 2019 at our place. Timings for the Test will be mailed you after the registration completed.
