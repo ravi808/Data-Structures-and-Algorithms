@@ -36,7 +36,7 @@ By joining this course you will learn:
 
 ## Prerequisites
 
-- Comfortable with basic programming concepts like loops, arrays, strings etc. 
+- Comfortable with basic programming concepts 
 - Attitude of self-learner
 
 ## Course Structure
