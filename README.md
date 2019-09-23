@@ -31,7 +31,7 @@ By joining this course you will learn:
 
 **Course Duration :** 60 Days.
 
-**For registration click on <a href="https://docs.google.com/forms/d/e/1FAIpQLScfvWJPPMnzERkS_UNmWbK4lTBGK0gyjQ9yHsrHVOFf80KasA/viewform" class="w3-bar-item w3-button">Register</a> Button.**
+**For registration click on <a href="https://docs.google.com/forms/d/e/1FAIpQLScfvWJPPMnzERkS_UNmWbK4lTBGK0gyjQ9yHsrHVOFf80KasA/viewform" class="w3-bar-item w3-button"style="font-size:40px;">Register</a> Button.**
 
 ## Prerequisites
 
