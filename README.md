@@ -41,11 +41,11 @@ By joining this course you will learn:
 
 ## Course Structure
 
-- Pointers
-- Time and Space Complexity
-- Recursion
-- Dynamic Allocation
-- OOPS Concept
+- **Pointers**
+- **Time and Space Complexity**
+- **Recursion**
+- **Dynamic Allocation**
+- **OOPS Concept**
 - **Arrays:** Searching, Sorting, Deleting, Shift, Rotation, Prefix Sum.....
 - **Strings:** Basic Operations, Naive Pattern Search, Other searching algorithms.
 - **Linked List:** Singly Linked List, Doubly Linked Lists, Circular Linked List, Skip List, Doubly Circular
@@ -54,14 +54,14 @@ By joining this course you will learn:
 - **Hashing:** Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions
 - **Stacks:** Stack Operations, Implementation, Different Questions
 - **Queues:** Queue Operations, Implementation, Different Questions, Deque Operations, Implementation, Different Questions.
-- Trees
-- Binary Trees
-- Binary Search Tree
-- Hashmaps
-- Priority Queue
-- Dynamic Programming
-- Tries and Huffman Coding
-- Graph
+- **Trees**
+- **Binary Trees**
+- **Binary Search Tree**
+- **Hashmaps**
+- **Priority Queue**
+- **Dynamic Programming**
+- **Tries and Huffman Coding**
+- **Graph**
 
 ## Fee Structure
 
@@ -69,5 +69,6 @@ By joining this course you will learn:
 --- | --- | --- | --- | --- | --- | --- |
 1 | Rs 6000 on 5 Oct, 2019 |           NIL           | Rs 6000 | Upto 15% |
 2 | Rs 4000 on 5 Oct, 2019 | Rs 2500 on 21 Oct, 2019 | Rs 6500 | Upto 15% |
+
 
 *Note:* Concession will be depend on the basis of the performance in the Coding Test. This Coding Test will be based on basics of progamming language. Coding Test will be conducted on 3 Oct, 2019 at our place. Timings for the Test will be mailed you after the registration completed.
