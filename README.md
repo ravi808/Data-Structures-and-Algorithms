@@ -26,11 +26,11 @@ By joining this course you will learn:
   3. Ability to describe stack,queue and linked list operation.
   4. Ability to have knowledge of tree and graphs concepts.
 ```
-**Date :** Demo classes starts from 28 September,2019.
+**Date :** Demo classes will be start soon.
 
 **Fee :** Flexible (Scroll down for complete fee structure).
 
-**Course Duration :** 60 Days.
+**Course Duration :** 90 Days.
 
 **For registration click on <a href="https://docs.google.com/forms/d/e/1FAIpQLScfvWJPPMnzERkS_UNmWbK4lTBGK0gyjQ9yHsrHVOFf80KasA/viewform" class="w3-bar-item w3-button">Register</a> Button.**
 
@@ -67,8 +67,8 @@ By joining this course you will learn:
 
  No of installments | Amount of first installment and submission date | Amount of second installment and submission date | Total Payble Fee | Concession |
 --- | --- | --- | --- | --- | --- | --- |
-1 | Rs 6000 on 5 Oct, 2019 |           NIL           | Rs 6000 | Upto 15% |
-2 | Rs 4000 on 5 Oct, 2019 | Rs 2500 on 21 Oct, 2019 | Rs 6500 | Upto 15% |
+1 | NIL |           NIL           | NIL | NIL |
+2 | NIL |           NIL           | NIL | NIL |
 
 
-*Note:* Concession will be depend on the basis of the performance in the Coding Test. This Coding Test will be based on basics of progamming language. Coding Test will be conducted on 3 Oct, 2019 at our place. Timings for the Test will be mailed you after the registration completed.
+*Note:* Concession will be depend on the basis of the performance in the Coding Test.
